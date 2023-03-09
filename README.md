@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Robert1Eleven
-- 👀 I’m interested in Data Science, ML, programming and software testing.
+- 👀 I’m interested in Data Science & ML.
 - 🌱 I’m currently learning R, Python and its DS and ML libraries. 
-- 💞️ I’m looking to collaborate on ... idk
+- 💞️ I’m looking to collaborate on data analyst, data scientist tasks.
 - 📫 How to reach me: Telegram @r0bertaga
 
 <!---
